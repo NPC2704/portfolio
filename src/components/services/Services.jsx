@@ -84,9 +84,7 @@ const Services = () => {
         <div className="services__content">
           <div>
             <i className="uil uil-arrow services__icon"></i>
-            <h3 className="services__title">
-              Clone App <br /> ZING MP3
-            </h3>
+            <h3 className="services__title">Website to record courses</h3>
           </div>
 
           <span className="services__button" onClick={() => toggleTag(2)}>
@@ -105,16 +103,19 @@ const Services = () => {
                 onClick={() => toggleTag(0)}
               ></i>
 
-              <h3 className="services__modal-title"> Clone App ZING MP3</h3>
+              <h3 className="services__modal-title">
+                Website to record courses
+              </h3>
               <p className="services__modal-description">
-                Using available APIs to rebuild the ZING MP3 music website.
+                When you need to save course videos you want to watch later,
+                this website will help you do that
               </p>
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Link github: github.com/NPC2704/Zing_MP3
+                    Link demo: https://videolearn-12uc3kn0y-npc2704.vercel.app/
                   </p>
                 </li>
 
@@ -126,8 +127,8 @@ const Services = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Technology description: <br />+ Front-end: HTML, CSS
-                    (TaiwindCss), ReactJS, Redux
+                    Technology description: <br />+ Frontend: HTML, CSS,
+                    Bootstrap, ReactJS, Redux <br /> + Backend: NodeJS, MongoDB
                   </p>
                 </li>
               </ul>

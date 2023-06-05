@@ -6,22 +6,21 @@ export const Data = [
   {
     id: 1,
     image: Image1,
-    title: "Jhon Doe",
+    title: "Andrew Hunt",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Chưa có ai có thể viết được một phần mềm hoàn hảo, bạn cũng vậy",
   },
   {
     id: 2,
     image: Image2,
-    title: "Harry Clinton",
-    description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+    title: "Jeremy Keith",
+    description: "Java đối với JavaScript cũng giống như Ham đối với Hamster",
   },
   {
     id: 3,
     image: Image3,
-    title: "Sara Cill",
+    title: "Fredrick Brooks",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Một lập trình viên mất một tháng để làm xong việc thì với 2 lập trình viên sẽ là 2 tháng",
   },
 ];

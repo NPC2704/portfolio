@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./qualification.css";
 
 const Qualification = () => {
-  const [toggle, setToggle] = useState(0);
+  const [toggle, setToggle] = useState(1);
   const toggleTag = (index) => {
     setToggle(index);
   };

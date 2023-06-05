@@ -57,8 +57,9 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">FrontEnd Developer</h3>
       <p className="home__description">
-        I am a front-end developer in Ho Chi Minh City. I have a passion for
-        technology and programming, which are essential parts of my job.
+        My fullname is Nguyen Phuoc Cong. I'm a front-end developer in Ho Chi
+        Minh City. I have a passion for technology and programming, which are
+        essential parts of my job.
       </p>
       <a href="#contact" className="button button--flex">
         Hello

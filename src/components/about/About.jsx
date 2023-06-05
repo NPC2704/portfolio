@@ -14,7 +14,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            I am currently a third-year student majoring in Information
+            I am currently a Senior student majoring in Information
             Technology at SPKT HCM University. I have a solid grasp of
             specialized knowledge related to JavaScript, ReactJS, and Tailwind
             CSS. In the future, I aspire to work with your company in creating
